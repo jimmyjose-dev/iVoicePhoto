@@ -17,9 +17,12 @@ voice commands.
 > voice commands such as : 
 > 
 > 1) Next
->   2) Previous
-3) ZoomIn
->   4) ZoomOut
+
+> 2) Previous
+
+> 3) ZoomIn
+
+> 4) ZoomOut
 
 > For a complete list see the ticker on the main screen.
 
