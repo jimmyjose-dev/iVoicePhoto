@@ -50,3 +50,7 @@ http://www.varshylmobile.com/
 
 
   [1]: https://s5.mzstatic.com/us/r30/Purple4/v4/fa/d3/e3/fad3e33e-ac7e-de92-864c-165013af6d79/icon170x170.png
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/varshylmobile/ivoicephoto/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
